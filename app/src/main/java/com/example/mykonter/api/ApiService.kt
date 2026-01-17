@@ -1,6 +1,6 @@
 package com.example.mykonter.api
 
-import com.example.mykonter.BentukData.Servis
+import com.example.mykonter.model.Servis
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.POST
